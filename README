@@ -1,0 +1,26 @@
+Kaltura Video Resource for Moodle 2
+Copyright (C) 2011 Catalyst IT (http://www.catalyst.net.nz)
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU Affero General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU Affero General Public License for more details.
+
+You should have received a copy of the GNU Affero General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+    
+----------------------------------------
+
+This is the Kaltura Video assignment type with Moodle 2.
+
+To install this plugin, copy the contents into
+moodleroot/mod/assignment/type/kaltura, where moodleroot is the moodle 2
+root (code) directory.
+
+To use this resource you will also need the Kaltura Local Plugin, available
+from: https://github.com/bwilkins/local-kaltura
