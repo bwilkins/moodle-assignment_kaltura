@@ -28,6 +28,7 @@ $id     = required_param('id', 0, PARAM_INT);
 $userid = required_param('userid', 0, PARAM_INT);
 
 $PAGE->requires->js('/local/kaltura/js/kaltura-play.js');
+$PAGE->requires->css('/local/kaltura/styles.css');
 
 //get course module/context from cmid
 $cm = get_coursemodule_from_id('assignment', $id, 0, false, MUST_EXIST);
